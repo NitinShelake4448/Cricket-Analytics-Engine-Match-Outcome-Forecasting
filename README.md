@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/XGBoost-2.0.3-orange?logo=xgboost" />
   <img src="https://img.shields.io/badge/scikit--learn-1.5.0-f7931e?logo=scikit-learn" />
  
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
 
 ---
