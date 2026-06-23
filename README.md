@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **IPLytics** is an end-to-end machine learning system that predicts the winner of an Indian Premier League (IPL) T20 cricket match using real-time ball-by-ball game-state data.
 
@@ -27,7 +27,7 @@ Raw Data → Cleaning → Feature Engineering → Modelling → Evaluation → S
 
 ---
 
-## 🗂️ Project Architecture
+##  Project Architecture
 
 ```
 IPLytics/
@@ -77,7 +77,7 @@ IPLytics/
 
 ---
 
-## 🏗️ System Architecture Diagram
+##  System Architecture Diagram
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -140,7 +140,7 @@ IPLytics/
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 | Field | Type | Description |
 |---|---|---|
@@ -166,7 +166,7 @@ IPLytics/
 
 ---
 
-## 🔬 Feature Engineering
+##  Feature Engineering
 
 | # | Feature | Formula | Rationale |
 |---|---|---|---|
@@ -185,7 +185,7 @@ IPLytics/
 
 ---
 
-## 🤖 ML Techniques Explained
+##  ML Techniques Explained
 
 ### Logistic Regression (Baseline)
 A linear probabilistic classifier modelling the log-odds of winning as a weighted sum of features. Feature scaling via `StandardScaler` is essential (included in a `Pipeline`). Useful baseline — any non-linear model must beat this to be worth deploying.
@@ -207,7 +207,7 @@ Gradient Boosted Decision Trees with second-order Taylor approximation of the lo
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@ Gradient Boosted Decision Trees with second-order Taylor approximation of the lo
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ```bash
 # 1. Clone
@@ -239,7 +239,7 @@ python main.py
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### Run full pipeline
 ```bash
@@ -271,7 +271,7 @@ print(result)
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 | Plot | Description |
 |---|---|
@@ -285,7 +285,7 @@ print(result)
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] **Player-level features** — individual batsman/bowler form ratings
 - [ ] **LSTM sequence model** — model over-by-over state as a time series
@@ -297,10 +297,4 @@ print(result)
 
 ---
 
-## 📄 License
 
-MIT License. See `LICENSE` for details.
-
----
-
-*Built with ❤️ using Python · scikit-learn · XGBoost · Matplotlib · Seaborn*
