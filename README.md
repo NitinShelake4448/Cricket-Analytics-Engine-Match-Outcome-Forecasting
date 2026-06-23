@@ -1,10 +1,6 @@
 #  IPLytics — Data-Driven Match Outcome Prediction
 
 <p align="center">
-  <img src="visualizations/model_comparison.png" alt="Model Comparison" width="700"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/XGBoost-2.0.3-orange?logo=xgboost" />
   <img src="https://img.shields.io/badge/scikit--learn-1.5.0-f7931e?logo=scikit-learn" />
