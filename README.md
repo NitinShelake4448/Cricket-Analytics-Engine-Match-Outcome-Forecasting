@@ -1,4 +1,4 @@
-# 🏏 IPLytics — Data-Driven Match Outcome Prediction
+#  IPLytics — Data-Driven Match Outcome Prediction
 
 <p align="center">
   <img src="visualizations/model_comparison.png" alt="Model Comparison" width="700"/>
